@@ -4,7 +4,7 @@ section .data
 	frase1 db 'Mova o disco ', 0
 	frase2 db ' da coluna ', 0
 	frase3 db ' até a coluna ', 0
-	concluido db 'Concluído!', 0
+	concluido db 'Concluido!', 0
 	coluna_origem db 'A', 0
 	coluna_auxiliar db 'B', 0
 	coluna_destino db 'C', 0
